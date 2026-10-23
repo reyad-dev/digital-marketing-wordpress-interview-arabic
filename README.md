@@ -2,7 +2,9 @@
   <img src="repo-icon.svg" width="180" alt="Digital Marketing and WordPress Interview icon" />
 </p>
 
-# Digital Marketing & WordPress Interview Bootcamp — Arabic Guide | معسكر مقابلات التسويق الرقمي وووردبريس
+# Reyad Interview — Digital Marketing & WordPress Interview Questions in Arabic | أسئلة مقابلات التسويق الرقمي وووردبريس
+
+**Reyad Interview**, created by **Mohamed Reyad (@reyad-dev)**, is an Arabic interactive guide for preparing for job interviews in **Digital Marketing** and **WordPress**, with organized questions, concepts, search, and topic filters.
 
 دليل عربي تفاعلي للتحضير لمقابلات العمل في **التسويق الرقمي (Digital Marketing)** و**تطوير وتصميم WordPress**، مصمم كصفحة ويب عربية RTL تساعد على مراجعة الأسئلة والمفاهيم المهمة بطريقة منظمة وسريعة.
 
